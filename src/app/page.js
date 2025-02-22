@@ -66,7 +66,7 @@ export default function AIChatInterface() {
 
   return (
     <div className="flex flex-col h-screen w-screen p-4 bg-gray-900 text-gray-100">
-      <h1 className="text-2xl font-bold mb-4 text-center">Precios Inmuebles EEUU</h1>
+      <h1 className="text-2xl font-bold mb-4 text-center">ChatBot HackUDC</h1>
       <div className="flex-1 overflow-y-auto p-4 bg-gray-800 rounded-xl shadow-inner">
         {messages.map((msg, index) => (
           <div
