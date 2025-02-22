@@ -35,7 +35,7 @@ export default function AIChatInterface() {
           sql_gen_model: "gemini-2.0-flash",
           chat_provider: "googleaistudio",
           chat_model: "gemini-2.0-flash",
-          vdp_database_names: "samples_bank,admin,proyecto,poblacion_activa",
+          vdp_database_names: "samples_bank,admin,proyecto,poblacion_activa,",
           use_views: "",
           expand_set_views: true,
           custom_instructions: "speak in spanish please about the questions about real state",
