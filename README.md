@@ -4,7 +4,10 @@ Crear un software que consiga solventar la problemática de falta de conocimient
 
 ## Instalación
 
-Antes de clonar el repositorio deben seguirse los pasos proporcionados por Denodo en su "Documentación técnica de Denodo para HackUDC"
+Clonar repositorio
+```
+git clone https://github.com/PedroSaavedraR/frontHackUDC
+```
 
 
 Instalar node.js
@@ -27,11 +30,6 @@ npx create-next-app@latest
 Iniciar el servidor en modo desarrollo
 ```
 next dev
-```
-
-Clonar repositorio
-```
-git clone https://github.com/PedroSaavedraR/frontHackUDC
 ```
 
 ## Uso
